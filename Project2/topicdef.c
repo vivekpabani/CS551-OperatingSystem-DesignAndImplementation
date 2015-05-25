@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define DEBUG_MODE 0
+#define DEBUG_MODE 1
 
 void topic_init()
 {
